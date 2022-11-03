@@ -1,0 +1,93 @@
+* {
+    box-sizing: border-box;
+    word-spacing: 2px;
+}
+
+h1 {
+    color: rgba(102, 13, 13, 0.967);
+    text-shadow: 2px 2px #5afc7d;
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h3 {
+    color: rgba(102, 13, 13, 0.967);
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+.about,
+p {
+    font-family: sans-serif;
+}
+
+.aboutanimal {
+    font-weight: bold;
+}
+
+.para {
+    border: 1px solid black;
+    background-color: pink;
+    color: red;
+    margin: 9px;
+    margin-left: 10px;
+    text-transform: capitalize;
+    line-height: 30px;
+    width: 290px;
+    text-align: left;
+    padding: 6px;
+}
+
+.animalsType {
+    display: flex;
+    text-decoration: column;
+    height: 1276px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    /* align-items: center; */
+    
+}
+
+figcaption {
+    font-variant: small-caps;
+}
+
+.herbivores {
+    padding: 6px;
+    height: 300px;
+    width: 306px;
+}
+
+.omnivores {
+    padding: 6px;
+    height: 300px;
+    width: 306px;
+}
+
+.carnivores {
+    padding: 6px;
+    height: 300px;
+    width: 306px;
+}
+
+.animals {
+    height: 400px;
+    width: 1500px;
+}
+
+.foot {
+    background-color: rgb(236, 231, 231);
+}
+
+h4 {
+    font-size: 20px;
+    padding: 4px;
+    text-align: center;
+}
+
+footer {
+    padding: 4px;
+    text-align: center;
+}
+
